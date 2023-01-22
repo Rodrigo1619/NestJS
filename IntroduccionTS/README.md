@@ -36,3 +36,11 @@ export const bulbasaur:Pokemon = {
 console.log(bulbasaur)
 
 ```
+
+# Arreglos con tipado
+Si queremos usar la interface con un arreglo
+```
+export const pokemons: Pokemon[] = []
+pokemons.push(charmander, bulbasaur)
+
+```
