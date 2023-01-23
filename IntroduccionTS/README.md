@@ -44,3 +44,7 @@ export const pokemons: Pokemon[] = []
 pokemons.push(charmander, bulbasaur)
 
 ```
+
+# Paste JSON as code
+Primero copiamos el JSON a nuestro clipboard, osea solo hacer el ctrl c, de ahi en visual le damos ctrl+shit+p y ponemos paste
+json as code y de ahi nos pedira el nombre, se lo ponemos y se nos generara la interza de TS desde ese json
