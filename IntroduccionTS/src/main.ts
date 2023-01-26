@@ -1,7 +1,8 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import { setupCounter } from './counter'
-import { charmander } from './bases/04-injection'
+import { charmander } from './bases/05-decorators'
+//import { charmander } from './bases/04-injection'
 //import { charmander } from './bases/03-classes'
 //import { bulbasaur, pokemons } from './bases/01-objects'
 //import {name, age} from './bases/01_types';
